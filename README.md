@@ -11,3 +11,6 @@ To add the presence:
 3. Hold shift and hit "Load Presence" (the tag/delete buttons will go away)
 4. Go into the folder, select the `dist` folder inside of the repo, and hit "Load Presence"
 5. Go to https://t1c.dev and watch it happen!
+
+
+This was basically only to learn TypeScript. Still fun though! ¯\_(ツ)_/¯
