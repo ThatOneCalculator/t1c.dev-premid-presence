@@ -13,4 +13,4 @@ To add the presence:
 5. Go to https://t1c.dev and watch it happen!
 
 
-This was basically only to learn TypeScript. Still fun though! ¯\_(ツ)_/¯
+This was basically only to learn TypeScript. Still fun though! ¯\\\_(ツ)_/¯
